@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Show-Off
 
-## Getting Started
+**Show Off** is a web application created using the [JavaScript Mastery tutorial](https://youtu.be/wm5gMKuwSYk?si=YmZW6gnbofsbUUZG&t=1).
 
-First, run the development server:
+## Purpose
+The main aim of the **Show Off** app is to provide a platform for users to showcase their achievements, share something they are proud of, or motivate others with their accomplishments.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+- **User Posts:** Users can create and share their posts, which can include text, images, or other media.
+- **Google Authentication:** The app offers user authentication through Google accounts, ensuring a secure and convenient login experience.
+- **Next.js 13:** The application is built with Next.js 13, which provides enhanced performance and features for a smooth user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How It Works
+1. Users log in using their Google accounts for secure access.
+2. They can create and publish posts, sharing their successes or things they are proud of.
+3. Other users can view posts and profiles other users.
+4. Users can also use the platform to motivate and inspire one another with their achievements.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**Show Off** is a fantastic platform for celebrating accomplishments and encouraging positive interactions among its users. Whether you want to showcase your success or draw inspiration from others, this app offers a space for both.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<div align="center">
 
-## Learn More
+## PC Screenshot
 
-To learn more about Next.js, take a look at the following resources:
+![App Screenshot](https://i.ibb.co/z8PDKmy/1.png)
+![App Screenshot](https://i.ibb.co/47Y21mt/2.png)
+![App Screenshot](https://i.ibb.co/kh86sDt/3.png)
+![App Screenshot](https://i.ibb.co/bKyvQpw/4.png)
+![App Screenshot](https://i.ibb.co/s9ZCYwx/5.png)
+![App Screenshot](https://i.ibb.co/qrtCT9W/6.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+</div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<div align="center">
 
-## Deploy on Vercel
+## Mobile Screenshot
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![App Screenshot](https://i.ibb.co/mGhd48Z/m1.png)![App Screenshot](https://i.ibb.co/syKHgJf/m2.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</div>
